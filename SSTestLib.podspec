@@ -4,9 +4,7 @@ Pod::Spec.new do |spec|
   spec.name         = 'SSTestLib'
   spec.version      = '0.0.1'
   spec.summary      = 'SSTestLib 测试框架'
-  spec.description  =<< DESC
-        '作为一个测试框架使用'
-                        DESC
+  spec.description  =  '作为一个测试框架使用'
 
   spec.homepage     = 'https://github.com/shenLaiMango/SYTestGit'
   spec.license      = 'MIT'
